@@ -1,7 +1,6 @@
 from datetime import datetime
 from database.orm import Base
 
-
 from sqlalchemy import Integer, String, DateTime, func, ForeignKey, Float, Boolean
 from sqlalchemy.orm import MappedColumn, mapped_column
 
