@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+.env.*
+*.env
+
+# Virtual Environment
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Database
+*.db
+*.sqlite3
+db.sqlite
+
+# Docker
+*.pid
+
+# Models
+models/
+*.gguf
+*.bin
+*.pt
+*.pth
+
+# Cache / temp
+.cache/
+tmp/
+temp/
+
+auth/
+config.py
